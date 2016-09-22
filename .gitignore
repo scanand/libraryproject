@@ -37,6 +37,8 @@ ehthumbs.db
 Thumbs.db
 .idea
 .idea
+.classpath
+.project
 
 # Directory
 target/
